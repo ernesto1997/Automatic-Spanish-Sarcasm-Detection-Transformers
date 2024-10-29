@@ -1,0 +1,72 @@
+/* Body Styling */
+body {
+    background-color: #f0f4f7;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Card Styling */
+.card {
+    border-radius: 20px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+    padding: 30px;
+}
+
+/* Main Title Styling */
+.card-title {
+    font-weight: 600;
+    font-size: 2.5em;
+}
+
+/* Form Input Styling */
+input.form-control-lg {
+    border: none;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    font-size: 1.5em;
+}
+
+/* Button Styling */
+.btn-primary {
+    background-color: #3498db;
+    border: none;
+    font-size: 1.2em;
+    transition: background-color 0.3s ease-in-out;
+}
+
+.btn-primary:hover {
+    background-color: #2980b9;
+}
+
+/* Resultados Section Styling */
+.resultados {
+    background-color: #f7f9fc;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+.resultado {
+    font-size: 1.6em;
+    font-weight: bold;
+}
+
+.frase {
+    font-size: 1.5em;
+    font-weight: 500;
+    font-style: italic;
+}
+
+.ingeniosa {
+    font-size: 1.2em;
+    color: #7f8c8d;
+}
+
+/* Progress Bar Styling */
+.progress-bar {
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+/* Footer */
+footer {
+    font-size: 1.1em;
+    color: #95a5a6;
+}
